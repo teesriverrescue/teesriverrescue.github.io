@@ -4014,10 +4014,10 @@ input, select, textarea {
 		background-color: #1d242a;
 	}
 	/*Extra CSS on top of standard */
-	.center {
+	.logocenter {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-		width: 10%;
+		width: 15%;
 
 	  }
